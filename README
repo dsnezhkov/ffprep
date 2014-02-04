@@ -1,0 +1,12 @@
+
+
+
+ This script 
+ - removes some FF annoyances when dealing with proxying requests in intercepting proxy
+ (e.g. removal of safe browsing and update checking)
+ - sets up FF for proxying via Burp
+ - creates a separate clean profile for testing 
+ - downloads and helps install useful extensions  for hacking
+ 
+
+
