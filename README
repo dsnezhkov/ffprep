@@ -9,4 +9,6 @@
  - downloads and helps install useful extensions  for hacking
  
 
-
+Added: 
+	- Restartless extension allows you to restart firefox after updating XPIs
+		Go to File -> Restart or Alt_F9
